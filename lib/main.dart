@@ -144,7 +144,7 @@ class MyPage extends StatelessWidget {
                           IconButton(
                               icon: Icon(
                                 LineAwesomeIcons.linkedin,
-                                size: MediaQuery.of(context).size.height * 0.05,
+                                size: MediaQuery.of(context).size.height * 0.06,
                               ),
                               onPressed: () {
                                 openURL(
